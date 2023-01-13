@@ -1,5 +1,7 @@
 # **One-dimensional function minimization**
 
+[colab link](https://colab.research.google.com/drive/1HcoY8DVNC7NRVvZyYfI7K0F3Tfr0tYuQ?usp=sharing)
+
 And Moses stretched out his hand over the sea, and the LORD drove the sea with a strong east wind all night, and made the sea dry land, and the waters parted. And the children of Israel went in the midst of the sea on dry land: the waters were a wall to them on the right and on the left side. 
 
 The waters parted with Moses hand, and for his companions from the shore, the waves was described by the following function:
