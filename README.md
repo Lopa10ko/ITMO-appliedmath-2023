@@ -8,5 +8,5 @@
     
 | | Labs  |     Overview     |
 |:---:|:---------------:|:---------------:|
-|1|[Linear programming](https://github.com/Lopa10ko/ITMO-appliedmath-2023/blob/main/labs/AM2/lab1/Lab_1_pm2.pdf)|<ul><li>[lab1_pm2.ipynb]()</ul></li>|
+|1|[Linear programming](https://github.com/Lopa10ko/ITMO-appliedmath-2023/blob/main/labs/AM2/lab1/Lab_1_pm2.pdf)|<ul><li>[lab1_pm2.ipynb](https://github.com/Lopa10ko/ITMO-appliedmath-2023/blob/main/labs/AM2/lab1/lab1_AM2_Bulin_Zhuikov_Lopatenko.ipynb)</ul></li>|
 
